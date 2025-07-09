@@ -174,3 +174,11 @@ plenopticam/scripts/**/*.png
 plenopticam/scripts/**/*.jpg
 plenopticam/scripts/**/*.txt
 plenopticam/scripts/**/*.pdf
+
+
+my_tests/MOD_0015
+my_tests/toy
+my_tests/lfp_img_align.png
+my_tests/lfp_img.png
+my_tests/wht_img.png
+.json
